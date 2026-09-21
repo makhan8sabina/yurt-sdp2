@@ -1,6 +1,3 @@
-package yurtbuilder;
-
-/** Concrete Product, mountain family. */
 public class MountainStove implements Stove {
     @Override
     public String describe() {
