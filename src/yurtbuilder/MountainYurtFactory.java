@@ -1,6 +1,3 @@
-package yurtbuilder;
-
-/** Concrete Factory, mountain family. */
 public class MountainYurtFactory implements YurtFactory {
     @Override
     public Frame createFrame() {
