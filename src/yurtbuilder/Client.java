@@ -1,10 +1,3 @@
-package yurtbuilder;
-
-/**
- * Client. Works only through abstract types - Frame, Stove, YurtFactory -
- * and never instantiates a concrete class (SteppeFrame, MountainStove, ...)
- * directly.
- */
 public class Client {
 
     public static void main(String[] args) {
